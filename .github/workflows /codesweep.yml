@@ -2,7 +2,7 @@ name: "HCL
 on:
   pull_request:
     types: [opened,synchronie]
-jobs:
+
   scan:
     runs-on: ubuntu-la
     steps:
