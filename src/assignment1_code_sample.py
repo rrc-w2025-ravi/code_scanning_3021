@@ -5,7 +5,7 @@ from urllib.request import urlopen
 db_config = {
     'host': 'mydatabase.com',
     'user': 'admin',
-    'password': '1
+    'password': '12345'
 }
 
 def get_user_input():
